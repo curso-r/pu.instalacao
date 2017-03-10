@@ -1,3 +1,3 @@
 #!/bin/sh
 
-Rscript -e "puBuild::Rmd_bind(titulo = 'instalacao')"
+Rscript -e "puBuild::Rmd_bind(titulo = 'Instalação')"
