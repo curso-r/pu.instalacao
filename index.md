@@ -7,10 +7,12 @@ date: '2017-03-10'
 
 
 
-A seguir teremos alguns tutoriais de instalação do R, Rstudio e alguns pacotes 
+A seguir teremos alguns tutoriais de instalação do R, RStudio e alguns pacotes 
 nos principais sistemas operacionais.
 
 
+
+## Instalação no Windows
 
 
 
