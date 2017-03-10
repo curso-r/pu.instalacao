@@ -1,5 +1,5 @@
 ---
-title: instalacao
+title: Instalação
 date: '2017-03-10'
 ---
 
