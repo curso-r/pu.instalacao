@@ -4,6 +4,8 @@ author: "Daniel Falbel"
 date: 2017-03-10
 ---
 
+## Instalação no Windows
+
 ```{r, message=FALSE, warning=FALSE, include=FALSE}
 knitr::opts_chunk$set(
   collapse = TRUE, 
