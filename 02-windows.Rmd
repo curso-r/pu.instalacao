@@ -61,7 +61,7 @@ Se você não for administrador, você deve ter feito o download de um arquivo d
 
 ![](img/rstudio-zip.PNG)
 
-Clique com o botão direito neste arquivo e dedpois em *Extrair Tudo* conforme a imagem abaixo.
+Clique com o botão direito neste arquivo e depois em *Extrair Tudo* conforme a imagem abaixo.
 
 ![](img/rstudio-extrair.png)
 
@@ -73,7 +73,7 @@ Agora, na pasta *Downloads*, a pasta que deixamos como local de extração (imag
 
 Abra essa pasta e entre na subpasta com nome `bin`. Em seguida, procure pelo arquivo chamado `rstudio` e clique duas vezes. Isso abrirá o RStudio. Recomendo fixar o programa na barra de tarefas  para não ter que ficar procurando nessa pasta sempre que quiser abri-la. 
 
-**Observação**: se você excluir a pasta que extraimos, o RStudio irá parar de funcionar.
+**Observação**: se você excluir a pasta que extraímos, o RStudio irá parar de funcionar.
 
 ![](img/rstudio-bin.PNG)
 
