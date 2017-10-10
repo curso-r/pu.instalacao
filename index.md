@@ -1,6 +1,6 @@
 ---
-title: Instalação
-date: '2017-06-17'
+title: 'Instalação'
+date: '2017-10-10'
 ---
 
 
